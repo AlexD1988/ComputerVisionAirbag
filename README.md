@@ -1,4 +1,4 @@
-## Computer vision application to airbag folding
+## Computer vision application to airbag folding in Python
 ![alt text](https://github.com/AlexD1988/ComputerVisionAirbag/blob/main/OPERATION_1.jpeg?raw=true)
 
 Computer vision analysis of a snow airbag folding video:
